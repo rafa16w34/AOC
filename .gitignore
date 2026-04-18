@@ -3,8 +3,8 @@ build/
 dist/
 
 # Gerados
-*.hex
-*.o
+*.HEX
+*.O
 *.obj
 *.cof
 *.lst
