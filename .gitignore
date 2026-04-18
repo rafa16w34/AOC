@@ -1,0 +1,29 @@
+# Build
+build/
+dist/
+
+# Gerados
+*.hex
+*.o
+*.obj
+*.cof
+*.lst
+*.map
+*.err
+*.mcs
+
+# MPLAB X
+nbproject/private/
+
+# Temporários
+*~
+*.bak
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Includes do MPLAB
+p16f627a.inc
+p16f628a.inc
+p16f648a.inc
